@@ -8,7 +8,7 @@ int main() {
   getchar();// consume the newline character in the input buffer
 
   char y;
-  scanf(" %c", &y);// add a space before the %c format specifier
+  scanf("%c", &y);
   printf("y: %c\n", y);
 
   getchar();// consume the newline character in the input buffer
