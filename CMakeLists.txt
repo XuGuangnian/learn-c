@@ -7,4 +7,5 @@ add_executable(learn_c
         chapter1/helloworld.c
         chapter2/variable_constant.c
         chapter2/integer.c
+        chapter2/char.c
 )
