@@ -8,4 +8,5 @@ add_executable(learn_c
         chapter2/variable_constant.c
         chapter2/integer.c
         chapter2/char.c
+        chapter2/escape_char.c
 )
