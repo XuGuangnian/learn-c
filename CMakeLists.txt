@@ -10,4 +10,5 @@ add_executable(learn_c
         chapter2/char.c
         chapter2/escape_char.c
         chapter2/float.c
+        chapter2/number_in_memory.c
 )
